@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Ahsan Abdullah
+#  Hey, I'm Ahsan Abdullah
 
 ### AI Automation Engineer | MERN-Stack Developer | Workflow Architect
 
@@ -13,17 +13,17 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I specialize in **automation engineering** and **MERN-stack development**, with a focus on creating intelligent workflows that connect complex systems. Currently working on:
 
-- 🔧 Building enterprise automation solutions with **n8n**, **Azure Functions**, and **REST APIs**
-- 🎯 Developing customer support automation systems integrating **Stripe**, **Zendesk**, and **Postmark**
-- 📦 Creating e-commerce fulfillment pipelines connecting **Shopify** with print-on-demand services
+-  Building enterprise automation solutions with **n8n**, **Azure Functions**, and **REST APIs**
+-  Developing customer support automation systems integrating **Stripe**, **Zendesk**, and **Postmark**
+-  Creating e-commerce fulfillment pipelines connecting **Shopify** with print-on-demand services
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 
@@ -57,12 +57,12 @@ I specialize in **automation engineering** and **MERN-stack development**, with 
 
 ### Core Competencies
 
-⚡ **Workflow Automation & Integration** | 🔌 **RESTful API Design & Integration** | 🎨 **UI/UX Prototyping & Development**  
-🏗️ **System Architecture & Design** | 📊 **Data Processing & Transformation** | 🔧 **DevOps & Cloud Deployment**
+ **Workflow Automation & Integration** |  **RESTful API Design & Integration** |  **UI/UX Prototyping & Development**  
+ **System Architecture & Design** |  **Data Processing & Transformation** |  **DevOps & Cloud Deployment**
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### 🎫 [Taptic Ticket Support Automation](https://github.com/DevArchon)
 **AI-powered customer support system automating ticket delivery and verification**
@@ -76,21 +76,6 @@ I specialize in **automation engineering** and **MERN-stack development**, with 
 - Human escalation workflow for complex cases via Zendesk
 
 **Impact:** Transformed manual ticket support into instant, secure, automated resolution—reducing support workload while maintaining 100% security compliance
-
----
-
-### 🛍️ [Shopify Order Fulfillment Automation](https://github.com/DevArchon)
-**Intelligent order management system bridging Shopify and print-on-demand suppliers**
-
-**Tech Stack:** n8n | Shopify API | Puppeteer | Google Sheets API | RV Print Factory API | VPS Hosting
-
-**Key Features:**
-- Hybrid data retrieval using APIs and browser automation for legacy systems
-- Triple-check verification system (Order ID + Address + SKU validation)
-- Automated tracking updates with real-time Slack alerts
-- 24/7 cloud-based operation handling high-volume order processing
-
-**Impact:** Eliminated manual order tracking, achieved near-perfect fulfillment accuracy, and scaled operations without increasing overhead
 
 ---
 
@@ -140,36 +125,6 @@ I specialize in **automation engineering** and **MERN-stack development**, with 
 
 **Impact:** Eliminated manual bottlenecks, enabled real-time visibility, transformed operations into a smart, self-managing enterprise
 
----
-
-### 🌐 [Flowstate AI Personalization Engine](https://github.com/DevArchon)
-**Dynamic landing page system generating tailored experiences in real-time**
-
-**Tech Stack:** Webflow | Claude AI | Make.com | JavaScript | Dynamic Content Rendering
-
-**Key Features:**
-- AI analysis of business context, industry, and tech stack
-- Real-time personalized landing page generation (15-30 seconds)
-- Intelligent content selection from centralized repository
-- Industry-specific trend and insight generation
-- Conditional rendering architecture for scalability
-
-**Impact:** 2-4x conversion rate improvement, significantly higher lead quality, reduced sales qualification time
-
----
-
-### 📧 [Upwork Proposal Automation](https://github.com/DevArchon)
-**Real-time job monitoring with AI-powered proposal generation**
-
-**Tech Stack:** n8n | Upwork API | Slack | AI Content Generation
-
-**Key Features:**
-- Real-time job monitoring with niche targeting (n8n automation projects)
-- Instant Slack notifications for new opportunities
-- AI-generated personalized proposals matching job requirements
-- Application time reduced from 15-20 minutes to 2-3 minutes
-
-**Impact:** Near-instant responses to opportunities, increased visibility, competitive advantage through speed and personalization
 ---
 
 ## 📈 Current Focus
