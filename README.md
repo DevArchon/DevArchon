@@ -111,8 +111,6 @@ I specialize in **automation engineering** and **full-stack development**, with 
 
 <div align="center">
 
-![DevArchon's
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevArchon&theme=tokyonight&hide_border=true)
 
 </div>
