@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Ahsan Abdullah
 
-### AI Automation Engineer | Full-Stack Developer | Workflow Architect
+### AI Automation Engineer | MERN-Stack Developer | Workflow Architect
 
 *Building intelligent automation solutions that bridge APIs, streamline workflows, and solve real business problems*
 
