@@ -15,12 +15,11 @@
 
 ## 🚀 What I Do
 
-I specialize in **automation engineering** and **full-stack development**, with a focus on creating intelligent workflows that connect complex systems. Currently working on:
+I specialize in **automation engineering** and **MERN-stack development**, with a focus on creating intelligent workflows that connect complex systems. Currently working on:
 
 - 🔧 Building enterprise automation solutions with **n8n**, **Azure Functions**, and **REST APIs**
 - 🎯 Developing customer support automation systems integrating **Stripe**, **Zendesk**, and **Postmark**
 - 📦 Creating e-commerce fulfillment pipelines connecting **Shopify** with print-on-demand services
-- 🤖 Implementing AI-powered solutions for document processing and customer interactions
 
 ---
 
@@ -65,27 +64,112 @@ I specialize in **automation engineering** and **full-stack development**, with 
 
 ## 🎯 Featured Projects
 
-### 🎫 Taptic Ticket Support Automation
-**Enterprise-grade customer support automation system built with n8n**
-- **Stack:** n8n, Azure Functions, Stripe API, Zendesk API, Postmark
-- **Features:** Automated ticket lookup via receipt numbers, email verification, intelligent escalation
-- **Impact:** Streamlined customer support workflow, reduced response time
+### 🎫 [Taptic Ticket Support Automation](https://github.com/DevArchon)
+**AI-powered customer support system automating ticket delivery and verification**
 
-### 📄 [Chat with Your PDF](https://github.com/DevArchon/Chat-with-your-pdf)
-**AI-powered PDF interaction tool enabling natural language conversations with documents**
-- **Stack:** Python, NLP, AI Integration
-- **Features:** Document parsing, conversational interface, intelligent content extraction
+**Tech Stack:** n8n | Azure Functions | Stripe API | Zendesk API | Postmark | PostMail API
 
-### 🎓 [Student Management System](https://github.com/DevArchon/student-management-system)
-**Comprehensive student administration platform**
-- **Stack:** FastAPI (Backend), JavaScript (Frontend)
-- **Features:** Student records, course management, modern responsive UI
+**Key Features:**
+- 6-digit secure identity verification system
+- Automated ticket re-delivery with delivery tracking integration
+- Intelligent order validation handling payments, activations, and delivery failures
+- Human escalation workflow for complex cases via Zendesk
 
-### 🛍️ Shopify Order Fulfillment Pipeline
-**Automated e-commerce fulfillment system for custom products**
-- **Stack:** n8n, Shopify API, Google Sheets API, RV Print Factory API
-- **Features:** Order processing, custom product handling, automated print job submission
+**Impact:** Transformed manual ticket support into instant, secure, automated resolution—reducing support workload while maintaining 100% security compliance
 
+---
+
+### 🛍️ [Shopify Order Fulfillment Automation](https://github.com/DevArchon)
+**Intelligent order management system bridging Shopify and print-on-demand suppliers**
+
+**Tech Stack:** n8n | Shopify API | Puppeteer | Google Sheets API | RV Print Factory API | VPS Hosting
+
+**Key Features:**
+- Hybrid data retrieval using APIs and browser automation for legacy systems
+- Triple-check verification system (Order ID + Address + SKU validation)
+- Automated tracking updates with real-time Slack alerts
+- 24/7 cloud-based operation handling high-volume order processing
+
+**Impact:** Eliminated manual order tracking, achieved near-perfect fulfillment accuracy, and scaled operations without increasing overhead
+
+---
+
+### 🚀 [Bevvy Bullet Kickstarter Campaign System](https://github.com/DevArchon)
+**Large-scale AI marketing automation for $100K Kickstarter launch**
+
+**Tech Stack:** n8n (52+ workflows) | GPT-4 | DALL-E | Stripe | Multi-Platform APIs (TikTok, Instagram, LinkedIn, YouTube)
+
+**Key Features:**
+- AI-powered content generation across text, images, and video formats
+- Automated multi-platform publishing with platform-specific optimization
+- Influencer outreach automation and community management (Discord)
+- Real-time analytics dashboard with A/B testing engine
+- Lead funnel automation with $1 VIP deposit system
+
+**Impact:** Reduced 40+ hours/week of manual work, enabled 24/7 autonomous campaign operations, achieved simultaneous multi-platform scaling
+
+---
+
+### 🏥 [UnifiMed Marketing Automation](https://github.com/DevArchon/UnifiMed-Marketing)
+**End-to-end healthcare CRM converting documents into compliant marketing campaigns**
+
+**Tech Stack:** n8n | HubSpot API | WordPress API | Google Ads API | LinkedIn API | AI Content Generation
+
+**Key Features:**
+- AI-generated compliant marketing content (blogs, ads, newsletters, landing pages)
+- Automated publishing to WordPress, Google Ads, and LinkedIn
+- Lead capture, enrichment, scoring, and HubSpot CRM sync
+- Automated follow-ups with full funnel analytics
+
+**Impact:** Campaign creation time dropped from days to 15-30 minutes with zero manual data entry and full compliance
+
+---
+
+### ❄️ [KeptCold HVAC Automation System](https://github.com/DevArchon)
+**AI-driven operations platform for refrigeration and air-conditioning services**
+
+**Tech Stack:** n8n | Azure Functions | Computer Vision | Traffic APIs | Multi-Channel Integration
+
+**Key Features:**
+- Multi-channel job processing (phone, WhatsApp, email, web) with AI transcription
+- Intelligent routing using real-time traffic data and ML scheduling
+- Automated quoting with computer vision for part identification
+- Financial automation: invoicing, payment tracking, and analytics
+- Lead generation engine with automated outreach
+- Unified dashboard with AI assistant
+
+**Impact:** Eliminated manual bottlenecks, enabled real-time visibility, transformed operations into a smart, self-managing enterprise
+
+---
+
+### 🌐 [Flowstate AI Personalization Engine](https://github.com/DevArchon)
+**Dynamic landing page system generating tailored experiences in real-time**
+
+**Tech Stack:** Webflow | Claude AI | Make.com | JavaScript | Dynamic Content Rendering
+
+**Key Features:**
+- AI analysis of business context, industry, and tech stack
+- Real-time personalized landing page generation (15-30 seconds)
+- Intelligent content selection from centralized repository
+- Industry-specific trend and insight generation
+- Conditional rendering architecture for scalability
+
+**Impact:** 2-4x conversion rate improvement, significantly higher lead quality, reduced sales qualification time
+
+---
+
+### 📧 [Upwork Proposal Automation](https://github.com/DevArchon)
+**Real-time job monitoring with AI-powered proposal generation**
+
+**Tech Stack:** n8n | Upwork API | Slack | AI Content Generation
+
+**Key Features:**
+- Real-time job monitoring with niche targeting (n8n automation projects)
+- Instant Slack notifications for new opportunities
+- AI-generated personalized proposals matching job requirements
+- Application time reduced from 15-20 minutes to 2-3 minutes
+
+**Impact:** Near-instant responses to opportunities, increased visibility, competitive advantage through speed and personalization
 ---
 
 ## 📈 Current Focus
